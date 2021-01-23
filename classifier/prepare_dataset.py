@@ -3,7 +3,7 @@ import os
 import json
 from tqdm import tqdm
 
-DATASET_PATH = "dataset"
+DATASET_PATH = "../dataset"
 JSON_PATH = "data.json"
 SAMPLES_TO_CONSIDER = 22050 # 1 second worth of sound
 
