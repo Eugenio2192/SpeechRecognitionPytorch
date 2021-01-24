@@ -1,5 +1,5 @@
 # Pull ML Image
-FROM pytorch/pytorch:latest
+FROM python:3.8
 WORKDIR /app
 
 # Transfer content from current dir to /app in container
